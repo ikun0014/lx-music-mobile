@@ -1,4 +1,4 @@
-package cn.toside.music.mobile;
+package com.ikunshare.music.mobile;
 
 import com.reactnativenavigation.NavigationActivity;
 import com.facebook.react.ReactActivityDelegate;

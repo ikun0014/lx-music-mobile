@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.lyric;
+package com.ikunshare.music.mobile.lyric;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -21,7 +21,7 @@ public class Lyric extends LyricPlayer {
   ReactApplicationContext reactAppContext;
 
   boolean isShowLyric = false;
-  // String lastText = "LX Music ^-^";
+  // String lastText = "LX Music Mod ^-^";
   int lastLine = 0;
   List lines = new ArrayList();
   boolean isShowTranslation;

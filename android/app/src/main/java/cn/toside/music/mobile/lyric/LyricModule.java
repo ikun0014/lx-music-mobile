@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.lyric;
+package com.ikunshare.music.mobile.lyric;
 
 import android.content.Intent;
 import android.net.Uri;

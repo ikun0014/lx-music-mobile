@@ -94,7 +94,7 @@ export const storageDataPrefixOld = {
   notificationTipEnable: '@notification_tip_enable',
 } as const
 
-export const APP_PROVIDER_NAME = 'cn.toside.music.mobile.provider'
+export const APP_PROVIDER_NAME = 'com.ikunshare.music.mobile.provider'
 
 
 export const NAV_MENUS = [

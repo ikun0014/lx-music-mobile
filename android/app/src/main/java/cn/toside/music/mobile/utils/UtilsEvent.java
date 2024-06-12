@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.utils;
+package com.ikunshare.music.mobile.utils;
 
 import android.util.Log;
 

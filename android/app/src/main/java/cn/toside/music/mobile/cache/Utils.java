@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.cache;
+package com.ikunshare.music.mobile.cache;
 
 import android.content.Context;
 

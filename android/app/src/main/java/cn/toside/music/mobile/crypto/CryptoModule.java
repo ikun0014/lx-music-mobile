@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.crypto;
+package com.ikunshare.music.mobile.crypto;
 
 import android.util.Base64;
 

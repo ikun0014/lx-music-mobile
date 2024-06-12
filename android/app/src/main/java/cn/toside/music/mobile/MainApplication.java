@@ -1,4 +1,4 @@
-package cn.toside.music.mobile;
+package com.ikunshare.music.mobile;
 
 import com.facebook.react.PackageList;
 import com.facebook.react.flipper.ReactNativeFlipper;
@@ -9,11 +9,11 @@ import com.facebook.react.defaults.DefaultNewArchitectureEntryPoint;
 import com.reactnativenavigation.react.NavigationReactNativeHost;
 import java.util.List;
 
-import cn.toside.music.mobile.cache.CachePackage;
-import cn.toside.music.mobile.crypto.CryptoPackage;
-import cn.toside.music.mobile.lyric.LyricPackage;
-import cn.toside.music.mobile.userApi.UserApiPackage;
-import cn.toside.music.mobile.utils.UtilsPackage;
+import com.ikunshare.music.mobile.cache.CachePackage;
+import com.ikunshare.music.mobile.crypto.CryptoPackage;
+import com.ikunshare.music.mobile.lyric.LyricPackage;
+import com.ikunshare.music.mobile.userApi.UserApiPackage;
+import com.ikunshare.music.mobile.utils.UtilsPackage;
 
 public class MainApplication extends NavigationApplication {
 

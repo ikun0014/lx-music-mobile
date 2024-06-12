@@ -1,12 +1,12 @@
-package cn.toside.music.mobile.userApi;
+package com.ikunshare.music.mobile.userApi;
 
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Base64;
 import android.util.Log;
-import cn.toside.music.mobile.crypto.AES;
-import cn.toside.music.mobile.crypto.RSA;
+import com.ikunshare.music.mobile.crypto.AES;
+import com.ikunshare.music.mobile.crypto.RSA;
 import com.facebook.react.bridge.ReactApplicationContext;
 
 import com.whl.quickjs.android.QuickJSLoader;

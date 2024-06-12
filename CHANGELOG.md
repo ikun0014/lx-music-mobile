@@ -8,7 +8,7 @@ Change log format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [1.4.2](https://github.com/lyswhut/lx-music-mobile/compare/v1.4.1...v1.4.2) - 2024-06-01
 
-我们发布了关于 LX Music 项目发展调整与新项目计划的说明，
+我们发布了关于 LX Music Mod 项目发展调整与新项目计划的说明，
 详情看： https://github.com/lyswhut/lx-music-desktop/issues/1912
 
 ### 修复
@@ -17,7 +17,7 @@ Change log format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [1.4.1](https://github.com/lyswhut/lx-music-mobile/compare/v1.4.0...v1.4.1) - 2024-06-01
 
-我们发布了关于 LX Music 项目发展调整与新项目计划的说明，
+我们发布了关于 LX Music Mod 项目发展调整与新项目计划的说明，
 详情看： https://github.com/lyswhut/lx-music-desktop/issues/1912
 
 ### 修复
@@ -26,7 +26,7 @@ Change log format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [1.4.0](https://github.com/lyswhut/lx-music-mobile/compare/v1.3.0...v1.4.0) - 2024-06-01
 
-我们发布了关于 LX Music 项目发展调整与新项目计划的说明，
+我们发布了关于 LX Music Mod 项目发展调整与新项目计划的说明，
 详情看： https://github.com/lyswhut/lx-music-desktop/issues/1912
 
 ### 新增
@@ -148,7 +148,7 @@ Change log format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 目前本项目的原始发布地址只有 **GitHub** 及 **蓝奏网盘** （在设置-关于有说明），其他渠道均为第三方转载发布，可信度请自行鉴别。
 
-本项目无微信公众号之类的官方账号，也未在小米、华为、vivo等应用商店发布应用，商店内的“LX Music”、“洛雪音乐”相关的应用全部属于假冒应用，谨防被骗。
+本项目无微信公众号之类的官方账号，也未在小米、华为、vivo等应用商店发布应用，商店内的“LX Music Mod”、“洛雪音乐”相关的应用全部属于假冒应用，谨防被骗。
 
 本软件完全无广告且无引流（如需要加群、关注公众号之类才能使用或者升级）的行为，若你使用过程中遇到广告或者引流的信息，则表明你当前运行的软件是第三方修改版。
 

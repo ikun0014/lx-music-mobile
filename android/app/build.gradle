@@ -108,9 +108,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "cn.toside.music.mobile"
+    namespace "com.ikunshare.music.mobile"
     defaultConfig {
-        applicationId "cn.toside.music.mobile"
+        applicationId "com.ikunshare.music.mobile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode verCode

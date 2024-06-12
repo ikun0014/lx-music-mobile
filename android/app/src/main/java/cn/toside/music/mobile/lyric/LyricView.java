@@ -1,4 +1,4 @@
-package cn.toside.music.mobile.lyric;
+package com.ikunshare.music.mobile.lyric;
 
 import android.app.Activity;
 import android.content.Context;
@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import cn.toside.music.mobile.R;
+import com.ikunshare.music.mobile.R;
 
 public class LyricView extends Activity implements View.OnTouchListener {
   LyricSwitchView textView = null;
@@ -56,7 +56,7 @@ public class LyricView extends Activity implements View.OnTouchListener {
   private String unplayColor = "rgba(255, 255, 255, 1)";
   private String playedColor = "rgba(7, 197, 86, 1)";
   private String shadowColor = "rgba(0, 0, 0, 0.15)";
-  // private String lastText = "LX Music ^-^";
+  // private String lastText = "LX Music Mod ^-^";
   private String textX = "LEFT";
   private String textY = "TOP";
   private float alpha = 1f;
@@ -66,7 +66,7 @@ public class LyricView extends Activity implements View.OnTouchListener {
 
   private int maxLineNum = 5;
   // private float lineHeight = 1;
-  private String currentLyric = "LX Music ^-^";
+  private String currentLyric = "LX Music Mod ^-^";
   private ArrayList<String> currentExtendedLyrics = new ArrayList<>();
 
   private int mLastRotation;
