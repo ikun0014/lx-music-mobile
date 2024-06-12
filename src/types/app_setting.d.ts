@@ -102,14 +102,9 @@ declare global {
       'theme.fontShadow': boolean
 
       /**
-       * 启动时自动播放歌曲
-       */
+           * 启动时自动播放歌曲
+           */
       'player.startupAutoPlay': boolean
-
-      /**
-       * 启动后打开歌曲详细界面
-       */
-      'player.startupPushPlayDetailScreen': boolean
 
       /**
        * 切歌模式
@@ -117,10 +112,10 @@ declare global {
       'player.togglePlayMethod': 'listLoop' | 'random' | 'list' | 'singleLoop' | 'none'
 
       /**
-       * 优先播放的音质
+       * 是否优先播放320k音质
        */
+      'player.isPlayHighQuality': boolean
       'player.playQuality': LX.Quality
-
       /**
        * 启动软件时是否恢复上次播放进度
        */

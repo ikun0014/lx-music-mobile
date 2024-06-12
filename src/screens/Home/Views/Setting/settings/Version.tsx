@@ -21,7 +21,7 @@ export default memo(() => {
   const progress = useVersionDownloadProgressUpdated()
   const handleOpenVersionModal = () => {
     // setVersionInfo({ showModal: true })
-    showModal()
+    // showModal()
   }
 
   useEffect(() => {

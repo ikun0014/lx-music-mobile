@@ -19,7 +19,7 @@ import {
 } from './local'
 
 
-export const getMusicUrl = async({
+export const getMusicUrl = async ({
   musicInfo,
   quality,
   isRefresh = false,
@@ -33,13 +33,14 @@ export const getMusicUrl = async({
   if ('progress' in musicInfo) {
     return getDownloadMusicUrl({ musicInfo, isRefresh, onToggleSource })
   } else if (musicInfo.source == 'local') {
+
     return getLocalMusicUrl({ musicInfo, isRefresh, onToggleSource })
   } else {
     return getOnlineMusicUrl({ musicInfo, isRefresh, quality, onToggleSource })
   }
 }
 
-export const getPicPath = async({
+export const getPicPath = async ({
   musicInfo,
   isRefresh = false,
   listId,
@@ -59,7 +60,7 @@ export const getPicPath = async({
   }
 }
 
-export const getLyricInfo = async({
+export const getLyricInfo = async ({
   musicInfo,
   isRefresh = false,
   onToggleSource,

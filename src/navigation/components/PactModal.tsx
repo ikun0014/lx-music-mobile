@@ -66,7 +66,7 @@ const Footer = ({ componentId }: { componentId: string }) => {
   const theme = useTheme()
   const isAgreePact = useSettingValue('common.isAgreePact')
   // const checkUpdate = useDispatch('common', 'checkUpdate')
-  const [time, setTime] = useState(20)
+  const [time, setTime] = useState(1)
 
   const handleRejct = () => {
     exitApp()
@@ -121,7 +121,7 @@ const Footer = ({ componentId }: { componentId: string }) => {
     return () => {
       timeoutTools.clear()
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   return (
@@ -130,18 +130,18 @@ const Footer = ({ componentId }: { componentId: string }) => {
         isAgreePact
           ? null
           : (
-              <Text selectable style={styles.tip} size={13}>若你（使用者）接受以上协议，请点击下面的“接受”按钮签署本协议，若不接受，请点击“不接受”后退出软件并清除本软件的所有数据。</Text>
-            )
+            <Text selectable style={styles.tip} size={13}>若你（使用者）接受以上协议，请点击下面的“接受”按钮签署本协议，若不接受，请点击“不接受”后退出软件并清除本软件的所有数据。</Text>
+          )
       }
       <View style={styles.btns}>
         {
           isAgreePact
             ? null
             : (
-                <Button style={{ ...styles.btn, backgroundColor: theme['c-button-background'] }} onPress={handleRejct}>
-                  <Text color={theme['c-button-font']}>不同意</Text>
-                </Button>
-              )
+              <Button style={{ ...styles.btn, backgroundColor: theme['c-button-background'] }} onPress={handleRejct}>
+                <Text color={theme['c-button-font']}>不同意</Text>
+              </Button>
+            )
         }
         <Button disabled={confirmBtn.disabled} style={{ ...styles.btn, backgroundColor: theme['c-button-background'] }} onPress={handleConfirm}>
           <Text color={theme['c-button-font']}>{confirmBtn.text}</Text>

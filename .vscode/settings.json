@@ -10,5 +10,6 @@
     "google-cn",
     "google"
   ],
-  "i18n-ally.sortKeys": true
+  "i18n-ally.sortKeys": true,
+  "java.configuration.updateBuildConfiguration": "disabled"
 }

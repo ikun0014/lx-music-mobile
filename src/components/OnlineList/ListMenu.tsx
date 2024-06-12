@@ -17,6 +17,7 @@ export interface ListMenuProps {
   onAdd: (selectInfo: SelectInfo) => void
   onCopyName: (selectInfo: SelectInfo) => void
   onDislikeMusic: (selectInfo: SelectInfo) => void
+  onDownload: (selectInfo: SelectInfo) => void
 }
 export interface ListMenuType {
   show: (selectInfo: SelectInfo, position: Position) => void
@@ -51,7 +52,7 @@ export default forwardRef<ListMenuType, ListMenuProps>((props: ListMenuProps, re
     return [
       { action: 'play', label: t('play') },
       { action: 'playLater', label: t('play_later') },
-      // { action: 'download', label: '下载' },
+      { action: 'download', label: '下载' },
       { action: 'add', label: t('add_to') },
       { action: 'copyName', label: t('copy_name') },
       { action: 'dislike', label: t('dislike'), disabled: isDislikeMusic },
@@ -76,6 +77,8 @@ export default forwardRef<ListMenuType, ListMenuProps>((props: ListMenuProps, re
       case 'dislike':
         props.onDislikeMusic(selectInfo)
         break
+      case 'download':
+        props.onDownload(selectInfo)
       default:
         break
     }
