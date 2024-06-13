@@ -1,6 +1,6 @@
 {
   "name": "lx-music-mobile",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "versionCode": 64,
   "private": true,
   "scripts": {
@@ -27,15 +27,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lyswhut/lx-music-mobile.git"
+    "url": "git+https://github.com/ikun0014/lx-music-mobile-mod.git"
   },
   "keywords": [
     "music-player",
     "react-native-app"
   ],
   "author": {
-    "name": "lyswhut",
-    "email": "lyswhut@qq.com"
+    "name": "ikun0014",
+    "email": "ikun0014@qq.com"
   },
   "license": "Apache-2.0",
   "bugs": {

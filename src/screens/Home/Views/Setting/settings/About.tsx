@@ -18,10 +18,10 @@ export default memo(() => {
   const theme = useTheme()
   const t = useI18n()
   const openHomePage = () => {
-    void openUrl('https://github.com/ikun0014/lx-music-mobile#readme')
+    void openUrl('https://github.com/ikun0014/lx-music-mobile-mod#readme')
   }
   const openNetdiskPage = () => {
-    void openUrl('https://www.lanzoui.com/b0bf2cfa/')
+    void openUrl('https://ikunruku.lanzouo.com/b007so8e7a')
   }
   const openFAQPage = () => {
     void openUrl('https://lyswhut.github.io/lx-music-doc/mobile/faq')
@@ -46,13 +46,13 @@ export default memo(() => {
       <View style={styles.part}>
         <Text style={styles.text} >本软件完全免费，代码已开源，开源地址：</Text>
         <TouchableOpacity onPress={openHomePage}>
-          <Text style={textLinkStyle}>https://github.com/ikun0014/lx-music-mobile</Text>
+          <Text style={textLinkStyle}>https://github.com/ikun0014/lx-music-mobile-mod</Text>
         </TouchableOpacity>
       </View>
       <View style={styles.part}>
         <Text style={styles.text} >最新版网盘下载地址：</Text>
         <TouchableOpacity onPress={openNetdiskPage}>
-          <Text style={textLinkStyle}>网盘地址（密码：glqw）</Text>
+          <Text style={textLinkStyle}>网盘地址（密码：lxmusicmod）</Text>
         </TouchableOpacity>
       </View>
       <View style={styles.part}>
