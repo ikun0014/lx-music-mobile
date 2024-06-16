@@ -18,7 +18,7 @@ export default memo(() => {
   const theme = useTheme()
   const t = useI18n()
   const openHomePage = () => {
-    void openUrl('https://github.com/ikun0014/lx-music-mobile-mod#readme')
+    void openUrl('https://github.com/ikunshare/lx-music-mobile-mod#readme')
   }
   const openNetdiskPage = () => {
     void openUrl('https://ikunruku.lanzouo.com/b007so8e7a')
@@ -46,7 +46,7 @@ export default memo(() => {
       <View style={styles.part}>
         <Text style={styles.text} >本软件完全免费，代码已开源，开源地址：</Text>
         <TouchableOpacity onPress={openHomePage}>
-          <Text style={textLinkStyle}>https://github.com/ikun0014/lx-music-mobile-mod</Text>
+          <Text style={textLinkStyle}>https://github.com/ikunshare/lx-music-mobile-mod</Text>
         </TouchableOpacity>
       </View>
       <View style={styles.part}>

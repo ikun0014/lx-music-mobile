@@ -1,12 +1,12 @@
-<p align="center"><a href="https://github.com/ikun0014/lx-music-mobile-mod"><img width="200" src="https://github.com/ikun0014/lx-music-mobile-mod/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="https://github.com/ikunshare/lx-music-mobile-mod"><img width="200" src="https://github.com/ikunshare/lx-music-mobile-mod/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
 <p align="center">
-  <a href="https://github.com/ikun0014/lx-music-mobile-mod/releases"><img src="https://img.shields.io/github/release/ikun0014/lx-music-mobile-mod" alt="Release version"></a>
-  <a href="https://github.com/ikun0014/lx-music-mobile-mod/actions/workflows/release.yml"><img src="https://github.com/ikun0014/lx-music-mobile-mod/workflows/Build/badge.svg" alt="Build status"></a>
-  <a href="https://github.com/ikun0014/lx-music-mobile-mod/actions/workflows/beta-pack.yml"><img src="https://github.com/ikun0014/lx-music-mobile-mod/workflows/Build%20Beta/badge.svg" alt="Build status"></a>
+  <a href="https://github.com/ikunshare/lx-music-mobile-mod/releases"><img src="https://img.shields.io/github/release/ikunshare/lx-music-mobile-mod" alt="Release version"></a>
+  <a href="https://github.com/ikunshare/lx-music-mobile-mod/actions/workflows/release.yml"><img src="https://github.com/ikunshare/lx-music-mobile-mod/workflows/Build/badge.svg" alt="Build status"></a>
+  <a href="https://github.com/ikunshare/lx-music-mobile-mod/actions/workflows/beta-pack.yml"><img src="https://github.com/ikunshare/lx-music-mobile-mod/workflows/Build%20Beta/badge.svg" alt="Build status"></a>
   <a href="https://github.com/facebook/react-native"><img src="https://img.shields.io/github/package-json/dependency-version/lyswhut/lx-music-mobile/react-native/master" alt="React native version"></a>
   <!-- <a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/downloads/lyswhut/lx-music-mobile/latest/total" alt="Downloads"></a> -->
-  <a href="https://github.com/ikun0014/lx-music-mobile-mod/tree/dev"><img src="https://img.shields.io/github/package-json/v/lyswhut/lx-music-mobile/dev" alt="Dev branch version"></a>
+  <a href="https://github.com/ikunshare/lx-music-mobile-mod/tree/dev"><img src="https://img.shields.io/github/package-json/v/lyswhut/lx-music-mobile/dev" alt="Dev branch version"></a>
   <!-- <a href="https://github.com/lyswhut/lx-music-mobile/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lyswhut/lx-music-mobile" alt="License"></a> -->
 </p>
 
@@ -23,11 +23,11 @@
 
 注：不计划支持IOS
 
-软件变化请查看：[更新日志](https://github.com/ikun0014/lx-music-mobile-mod/blob/master/CHANGELOG.md)<br>
-软件下载请转到：[发布页面](https://github.com/ikun0014/lx-music-mobile-mod/releases)<br>
+软件变化请查看：[更新日志](https://github.com/ikunshare/lx-music-mobile-mod/blob/master/CHANGELOG.md)<br>
+软件下载请转到：[发布页面](https://github.com/ikunshare/lx-music-mobile-mod/releases)<br>
 或者到网盘下载（网盘内有MAC、windows版）：`https://ikunruku.lanzouo.com/b007so8e7a/` 密码：`lxmusicmod`（若链接无法打开请百度：蓝奏云链接打不开）<br>
 使用常见问题请转至：[常见问题](https://lyswhut.github.io/lx-music-doc/mobile/faq)<br>
-桌面版项目地址：<https://github.com/ikun0014/lx-music-desktop-mod>
+桌面版项目地址：<https://github.com/ikunshare/lx-music-desktop-mod>
 
 目前本项目的原始发布地址只有**GitHub**及**蓝奏网盘**，其他渠道均为第三方转载发布，与本项目无关！
 

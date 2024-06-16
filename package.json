@@ -27,14 +27,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikun0014/lx-music-mobile-mod.git"
+    "url": "git+https://github.com/ikunshare/lx-music-mobile-mod.git"
   },
   "keywords": [
     "music-player",
     "react-native-app"
   ],
   "author": {
-    "name": "ikun0014",
+    "name": "ikunshare",
     "email": "ikun0014@qq.com"
   },
   "license": "Apache-2.0",
